@@ -1,2 +1,2 @@
-# 255-HW-Assignments
+# 255-Assignments
 Few files related to homework assigments for CSE 255.
